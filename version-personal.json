@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "4.35",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1123164067132982/mt4d4yhtjt0om3p204jx7s2k/ota-payload-v435.apk",
-  "notes": "Wallpaper animasi sekarang tercermin ke Recent Apps & layar kunci (gambar diam adegannya jadi wallpaper sistem). Efek Pudar jadi larutan silang sejati, tidak meluncur penuh."
+  "versionCode": 63,
+  "versionName": "4.36",
+  "apkUrl": "https://muse.ai/files/1362679686933657/4756184031334055/ru1ndn6wwt36wmhbli0c000x/ota-payload-v436.apk",
+  "notes": "GRID BEBAS: semua aplikasi, widget, folder, kartu cuaca, sapaan, Start, dan kolom pencarian sekarang ubin di satu grid — bisa digeser & ditaruh di mana pun. Widget tampil utuh sesuai ukuran selnya, tidak kepotong lagi. Kolom pencarian bawaan bisa dihapus dan diganti widget Google. Elemen yang dihapus bisa ditambah lagi lewat menu Widget & elemen."
 }
