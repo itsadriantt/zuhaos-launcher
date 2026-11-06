@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "4.38",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1401899941705009/mqbqw42qmquwk6jsuajko8wu/ota-payload-v438.apk",
-  "notes": "PERBAIKAN DARURAT: di v4.37 ada bug yang bikin sebagian ubin tidak digambar (sapaan, tombol Start, dan sebagian aplikasi hilang dari layar). Bug-nya sudah ketemu dan diperbaiki — semua ubin sekarang digambar lengkap lagi, posisi bebas tetap dipertahankan."
+  "versionCode": 66,
+  "versionName": "4.39",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1111183968214505/9galikn2k31flubdl7v6i199/ota-payload-v439.apk",
+  "notes": "Perbaikan seret: melepas ubin/widget di area kosong di bawah grid sekarang mendarat di baris paling bawah (sebelumnya dianggap di luar grid dan dibatalkan, makanya balik lagi). Seret ke sel isi tetap tukar posisi."
 }
