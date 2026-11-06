@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "4.41",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1788154509157868/z6xpplqqrqtoqgbm0iq76pya/ota-payload-v441.apk",
-  "notes": "1) Aplikasi baru TIDAK lagi otomatis masuk layar utama (cuma masuk laci aplikasi) — layout bebas tidak akan keganggu lagi tiap install. 2) Area penempatan diperluas sampai dekat dock, jadi widget/aplikasi bisa ditaruh jauh lebih bebas ke bawah. 3) Goyang buat rapikan dilonggarkan (2 hentakan cukup) + ada tombol Rapikan di menu launcher (tekan lama area kosong)."
+  "versionCode": 69,
+  "versionName": "4.42",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1095212943277956/vwjckwvlvu75vu75o4a0buly/ota-payload-v442.apk",
+  "notes": "Menu launcher PINDAH ke Pengaturan (bagian Menu Launcher paling bawah): tekan lama area kosong TIDAK lagi membuka menu. Rapikan ikon juga ada di sana dan sekarang merapatkan mengikuti urutan tampilan ikon saat ini. Semua aksi lama tetap ada: Launcher default, Paket ikon, Tambah aplikasi, Widget & elemen, Atur dock, Latar sendiri, Galeri latar."
 }
