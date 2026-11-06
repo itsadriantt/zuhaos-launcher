@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "4.33",
-  "apkUrl": "",
-  "notes": "Versi jembatan OTA: alamat pembaruan sekarang permanen di GitHub. Isi: animasi halaman baru (Zoom kuat, Kubus, Tumpuk), Ganti nama aplikasi, Pintasan aplikasi, Aksi ketuk 2x, Ikon tematik, Sapaan waktu, Statistik pemakaian."
+  "versionCode": 61,
+  "versionName": "4.34",
+  "apkUrl": "https://muse.ai/files/1362679686933657/3001649190183044/c54rhmwynhpjd2jm9mcozpi8/ota-payload-v434.apk",
+  "notes": "Perbaikan animasi: slide halaman 320ms halus dua arah, buka drawer beranimasi di semua jalur."
 }
