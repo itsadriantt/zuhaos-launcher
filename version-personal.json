@@ -1,6 +1,6 @@
 {
-  "versionCode": 69,
-  "versionName": "4.42",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1095212943277956/vwjckwvlvu75vu75o4a0buly/ota-payload-v442.apk",
-  "notes": "Menu launcher PINDAH ke Pengaturan (bagian Menu Launcher paling bawah): tekan lama area kosong TIDAK lagi membuka menu. Rapikan ikon juga ada di sana dan sekarang merapatkan mengikuti urutan tampilan ikon saat ini. Semua aksi lama tetap ada: Launcher default, Paket ikon, Tambah aplikasi, Widget & elemen, Atur dock, Latar sendiri, Galeri latar."
+  "versionCode": 70,
+  "versionName": "4.43",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1001173162325712/k5dknciojl7o05busnzorgk4/ota-payload-v443.apk",
+  "notes": "Pengaturan zuhaOS sekarang muncul sebagai aplikasi sendiri di laci aplikasi (cari: Pengaturan zuhaOS) — dari sana semua aksi Menu Launcher dan Rapikan ikon bisa dijangkau. Sebelumnya Pengaturan cuma bisa dibuka dari menu lama, jadi pas menunya dipindah malah tidak terjangkau."
 }
