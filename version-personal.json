@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "4.36",
-  "apkUrl": "https://muse.ai/files/1362679686933657/4756184031334055/ru1ndn6wwt36wmhbli0c000x/ota-payload-v436.apk",
-  "notes": "GRID BEBAS: semua aplikasi, widget, folder, kartu cuaca, sapaan, Start, dan kolom pencarian sekarang ubin di satu grid — bisa digeser & ditaruh di mana pun. Widget tampil utuh sesuai ukuran selnya, tidak kepotong lagi. Kolom pencarian bawaan bisa dihapus dan diganti widget Google. Elemen yang dihapus bisa ditambah lagi lewat menu Widget & elemen."
+  "versionCode": 64,
+  "versionName": "4.37",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1206231255063963/qsv2vr1d9s5lq7cv2hjill4x/ota-payload-v437.apk",
+  "notes": "PERBAIKAN GRID: sekarang penempatan bebas beneran — ubin yang digeser NEMPEL di sel tujuan (sel kosong bebas, sel isi = tukar posisi), tidak balik lagi. Teks kartu cuaca dan pill sapaan diperbaiki (tidak pecah/kepotong di grid 5 kolom). Shopee/GitHub yang kepindah halaman bisa diseret balik dan akan tetap di tempat."
 }
