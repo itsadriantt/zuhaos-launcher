@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "4.34",
-  "apkUrl": "https://muse.ai/files/1362679686933657/3001649190183044/c54rhmwynhpjd2jm9mcozpi8/ota-payload-v434.apk",
-  "notes": "Perbaikan animasi: slide halaman 320ms halus dua arah, buka drawer beranimasi di semua jalur."
+  "versionCode": 62,
+  "versionName": "4.35",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1123164067132982/mt4d4yhtjt0om3p204jx7s2k/ota-payload-v435.apk",
+  "notes": "Wallpaper animasi sekarang tercermin ke Recent Apps & layar kunci (gambar diam adegannya jadi wallpaper sistem). Efek Pudar jadi larutan silang sejati, tidak meluncur penuh."
 }
