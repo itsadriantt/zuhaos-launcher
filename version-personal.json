@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "4.43",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1001173162325712/k5dknciojl7o05busnzorgk4/ota-payload-v443.apk",
-  "notes": "Pengaturan zuhaOS sekarang muncul sebagai aplikasi sendiri di laci aplikasi (cari: Pengaturan zuhaOS) — dari sana semua aksi Menu Launcher dan Rapikan ikon bisa dijangkau. Sebelumnya Pengaturan cuma bisa dibuka dari menu lama, jadi pas menunya dipindah malah tidak terjangkau."
+  "versionCode": 71,
+  "versionName": "4.44",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1022242400903424/c3lejgwsi2zwpayhu6asrdgr/ota-payload-v444.apk",
+  "notes": "Perbaikan buka aplikasi dari laci: drawer tidak lagi ditutup duluan sebelum aplikasi terbuka (yang bikin layar utama sempat muncul di tengah). Sekarang aplikasi langsung terbuka, drawer dibersihkan diam-diam di belakang."
 }
