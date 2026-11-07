@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "4.46",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1345918440868606/a5lweha7at1t1j7ogkgdcd27/ota-payload-v446.apk",
-  "notes": "Pembaruan zuhaOS sekarang jadi aplikasi sendiri di laci (pintu kedua yang independen dari Pengaturan) — lockout kayak kemarin tidak bisa terulang: satu pintu rusak, pintu lain tetap bisa buat update."
+  "versionCode": 74,
+  "versionName": "4.47",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2168053110464450/0jfjhvb3n44cakjxpncttb09/ota-payload-v447.apk",
+  "notes": "Balik seperti semula atas permintaan: aplikasi Pengaturan/Pembaruan terpisah di laci dicabut, dan menu launcher kembali dibuka dengan tekan lama area kosong (isi lengkap termasuk Rapikan dan Cek pembaruan)."
 }
