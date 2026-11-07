@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "4.48",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1138406261987819/c4rb6tq8hg769ijplbof150r/ota-payload-v448.apk",
-  "notes": "1) Flash layar utama saat buka aplikasi dari laci diperbaiki beneran: drawer sekarang dibersihkan setelah jendela tertutup aplikasi (onStop), bukan saat masih terlihat. 2) Menu launcher pindah ke tombol titik tiga di kanan atas layar utama dengan popup kecil ala aplikasi Pesan; tekan lama area kosong tidak lagi membuka menu."
+  "versionCode": 76,
+  "versionName": "4.49",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1128636066749897/5zbakst9hbo90oil6rd3y84g/ota-payload-v449.apk",
+  "notes": "Tombol titik tiga sekarang tersembunyi: muncul hanya saat area kosong ditekan lama, hilang lagi setelah popup ditutup atau 6 detik tidak dipakai."
 }
