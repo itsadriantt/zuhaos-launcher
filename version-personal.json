@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "4.45",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1537255618198632/9h93i3lxgjur1wx1vymwdwji/ota-payload-v445.apk",
-  "notes": "Perbaikan: Pengaturan zuhaOS tidak bisa dibuka dari laci — ikon paket sendiri diluncurkan pakai intent khusus yang malah me-reset layar utama. Sekarang entri paket sendiri (Pengaturan) dibuka pakai intent biasa."
+  "versionCode": 73,
+  "versionName": "4.46",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1345918440868606/a5lweha7at1t1j7ogkgdcd27/ota-payload-v446.apk",
+  "notes": "Pembaruan zuhaOS sekarang jadi aplikasi sendiri di laci (pintu kedua yang independen dari Pengaturan) — lockout kayak kemarin tidak bisa terulang: satu pintu rusak, pintu lain tetap bisa buat update."
 }
