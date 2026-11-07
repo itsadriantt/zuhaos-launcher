@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "4.44",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1022242400903424/c3lejgwsi2zwpayhu6asrdgr/ota-payload-v444.apk",
-  "notes": "Perbaikan buka aplikasi dari laci: drawer tidak lagi ditutup duluan sebelum aplikasi terbuka (yang bikin layar utama sempat muncul di tengah). Sekarang aplikasi langsung terbuka, drawer dibersihkan diam-diam di belakang."
+  "versionCode": 72,
+  "versionName": "4.45",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1537255618198632/9h93i3lxgjur1wx1vymwdwji/ota-payload-v445.apk",
+  "notes": "Perbaikan: Pengaturan zuhaOS tidak bisa dibuka dari laci — ikon paket sendiri diluncurkan pakai intent khusus yang malah me-reset layar utama. Sekarang entri paket sendiri (Pengaturan) dibuka pakai intent biasa."
 }
