@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "4.54",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1121930797392439/2wuhxadb9ukpos01fy30bovh/ota-payload-v454.apk",
-  "notes": "Baru: Laporan Mingguan (AI merangkum pemakaian HP lu) dan Bersih-bersih AI (saran hapus aplikasi yang nganggur + tombol Copot). Buka di Pengaturan > Menu Launcher."
+  "versionCode": 82,
+  "versionName": "4.55",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1497353189158556/e1s5blavza9w3g7tzffp2oqu/ota-payload-v455.apk",
+  "notes": "Filter notif pintar dihapus total atas permintaan. Lencana notifikasi, Chat AI, Laporan Mingguan, dan Bersih-bersih AI tetap ada."
 }
