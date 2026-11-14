@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "4.49",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1128636066749897/5zbakst9hbo90oil6rd3y84g/ota-payload-v449.apk",
-  "notes": "Tombol titik tiga sekarang tersembunyi: muncul hanya saat area kosong ditekan lama, hilang lagi setelah popup ditutup atau 6 detik tidak dipakai."
+  "versionCode": 77,
+  "versionName": "4.50",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1505132205076808/0g91fqrciacwjv900k51un6j/ota-payload-v450.apk",
+  "notes": "Optimisasi kelancaran: animasi drawer & pindah halaman sekarang pakai hardware layer (lebih halus, ga lag), latar animasi lebih ringan. Tanpa perubahan tampilan."
 }
