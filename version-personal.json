@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "4.55",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1497353189158556/e1s5blavza9w3g7tzffp2oqu/ota-payload-v455.apk",
-  "notes": "Filter notif pintar dihapus total atas permintaan. Lencana notifikasi, Chat AI, Laporan Mingguan, dan Bersih-bersih AI tetap ada."
+  "versionCode": 83,
+  "versionName": "4.56",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1747795882957412/ngxac8vqsqzuo7rtcuc2esgi/ota-payload-v456.apk",
+  "notes": "Baru: animasi beneran render — partikel GPU + ring saat klik ikon, dan animasi frame pre-render saat buka aplikasi & menu titik tiga. Bisa dimatikan di Pengaturan > Animasi > Efek animasi render."
 }
