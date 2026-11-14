@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "4.51",
-  "apkUrl": "https://muse.ai/files/1362679686933657/29283593034585495/1vq1cnzhbrllqtnyie48fhpz/ota-payload-v451.apk",
-  "notes": "Baru: Chat AI gratis (Pollinations, tanpa API key) — buka dari menu titik tiga atau Pengaturan > Menu Launcher. Dihapus: Latar Animasi Aurora/Bintang/Hujan; wallpaper kini tampil langsung tanpa lapisan animasi."
+  "versionCode": 79,
+  "versionName": "4.52",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1682700726742295/l6d3aagdfm9cxd8m6zjm5eka/ota-payload-v452.apk",
+  "notes": "Chat AI diperbaiki: sekarang tahu MU = Manchester United, jawab langsung tanpa tanya balik, dan dikasih data jadwal + hasil MU beneran (laga berikutnya: Liverpool, 22 Nov 23:30 WIB)."
 }
