@@ -1,6 +1,6 @@
 {
-  "versionCode": 77,
-  "versionName": "4.50",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1505132205076808/0g91fqrciacwjv900k51un6j/ota-payload-v450.apk",
-  "notes": "Optimisasi kelancaran: animasi drawer & pindah halaman sekarang pakai hardware layer (lebih halus, ga lag), latar animasi lebih ringan. Tanpa perubahan tampilan."
+  "versionCode": 78,
+  "versionName": "4.51",
+  "apkUrl": "https://muse.ai/files/1362679686933657/29283593034585495/1vq1cnzhbrllqtnyie48fhpz/ota-payload-v451.apk",
+  "notes": "Baru: Chat AI gratis (Pollinations, tanpa API key) — buka dari menu titik tiga atau Pengaturan > Menu Launcher. Dihapus: Latar Animasi Aurora/Bintang/Hujan; wallpaper kini tampil langsung tanpa lapisan animasi."
 }
