@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "4.52",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1682700726742295/l6d3aagdfm9cxd8m6zjm5eka/ota-payload-v452.apk",
-  "notes": "Chat AI diperbaiki: sekarang tahu MU = Manchester United, jawab langsung tanpa tanya balik, dan dikasih data jadwal + hasil MU beneran (laga berikutnya: Liverpool, 22 Nov 23:30 WIB)."
+  "versionCode": 80,
+  "versionName": "4.53",
+  "apkUrl": "https://muse.ai/files/1362679686933657/28186293164377877/cqm85gnt50mozotcoqfs4kzi/ota-payload-v453.apk",
+  "notes": "Baru: Filter notif pintar — AI sembunyikan notif spam/promo diam-diam, yang penting dirangkum. Nyalakan di Pengaturan > Filter notif pintar (butuh akses notifikasi). Log & ringkasan ada di Pengaturan > Log filter notifikasi."
 }
