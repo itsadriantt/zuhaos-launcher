@@ -1,6 +1,6 @@
 {
-  "versionCode": 94,
-  "versionName": "5.1.4",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1651378083299916/hy6bms8b8zr6o517ls5oimbo/ota-payload-v514.apk",
-  "notes": "v5.1.4: ikon aplikasi di home/drawer jadi liquid glass iOS 27 (gambar app tetap, lapisan kaca di atasnya)."
+  "versionCode": 95,
+  "versionName": "5.1.5",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1146115441680371/jlljp8duljlunctnzok6ev0b/ota-payload-v515.apk",
+  "notes": "v5.1.5: logo launcher jadi bronze liquid glass persis iOS 27 (perunggu gelap + tulisan putih tipis)."
 }
