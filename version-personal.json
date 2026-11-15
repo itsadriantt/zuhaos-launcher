@@ -1,6 +1,6 @@
 {
-  "versionCode": 89,
-  "versionName": "5.0.4",
-  "apkUrl": "https://muse.ai/files/1362679686933657/2697044524130425/z3wt5oihyi46r4wjg4xisct0/ota-payload-v504.apk",
-  "notes": "Mode iOS 5.0.4: Search pill di atas dock dihapus, bar Google dan watermark kembali di kedua mode."
+  "versionCode": 90,
+  "versionName": "5.1",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1568239888680547/k699062nwqsxa0zrh88ukhux/ota-payload-v51.apk",
+  "notes": "v5.1: mesin Lawnchair (reorder + geser halaman), label aplikasi bisa dimatiin di mode iOS, widget kotak 2x2 ala iOS 27."
 }
