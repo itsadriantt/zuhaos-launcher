@@ -1,6 +1,6 @@
 {
-  "versionCode": 93,
-  "versionName": "5.1.3",
-  "apkUrl": "https://muse.ai/files/1362679686933657/2380338072783124/d1ekxqt74sm861100n7su0oj/ota-payload-v513.apk",
-  "notes": "v5.1.3: drag & drop bebas beneran (halaman dihitung per sel, bukan per jumlah app), ikon launcher liquid glass iOS 27."
+  "versionCode": 94,
+  "versionName": "5.1.4",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1651378083299916/hy6bms8b8zr6o517ls5oimbo/ota-payload-v514.apk",
+  "notes": "v5.1.4: ikon aplikasi di home/drawer jadi liquid glass iOS 27 (gambar app tetap, lapisan kaca di atasnya)."
 }
