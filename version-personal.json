@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "5.1.12",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1124495917125961/do23jyt0j8jrk1efsgv34bc8/ota-payload-v5112.apk",
-  "notes": "v5.1.12: ikon bulat (Canva dll) dibikin squircle; blur dock diperkuat; semua app yang hilang balik ke home mode iOS."
+  "versionCode": 103,
+  "versionName": "5.1.13",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1171487012104315/k7b672z4bvtmuignjozbikof/ota-payload-v5113.apk",
+  "notes": "v5.1.13: blur kaca dock kini kelihatan (lapisan putih dock dibuat jauh lebih tipis)."
 }
