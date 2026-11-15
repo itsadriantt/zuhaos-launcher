@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "5.1.1",
-  "apkUrl": "https://muse.ai/files/1362679686933657/2593487704429120/q7puugu1putd5gon335r15l3/ota-payload-v511.apk",
-  "notes": "v5.1.1: widget 2x2 iOS 27 kini muncul juga di home yang sudah mode iOS (migrasi sekali jalan), label + bar Google ikut beres."
+  "versionCode": 92,
+  "versionName": "5.1.2",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1604492347662497/xvq232o9b94c6g3zzs44yquh/ota-payload-v512.apk",
+  "notes": "v5.1.2: dock liquid glass beneran — wallpaper blur di belakang dock + highlight kaca, bukan abu-abu polos."
 }
