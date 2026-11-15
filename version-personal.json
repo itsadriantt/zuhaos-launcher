@@ -1,6 +1,6 @@
 {
-  "versionCode": 96,
-  "versionName": "5.1.6",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1148358644242870/495d1u4ejrt91mlagqhpvdh1/ota-payload-v516.apk",
-  "notes": "v5.1.6: liquid glass dihapus dari ikon app (ikon balik polos squircle); kaca cuma di dock, sesuai referensi iOS 27."
+  "versionCode": 97,
+  "versionName": "5.1.7",
+  "apkUrl": "https://muse.ai/files/1362679686933657/3825623980918216/qi7wg3r6g326c08puhyzgzu0/ota-payload-v517.apk",
+  "notes": "v5.1.7: logopack iOS 27 — 112 ikon bawaan jadi kaca liquid glass (mode iOS); mode One UI tetap ikon biasa."
 }
