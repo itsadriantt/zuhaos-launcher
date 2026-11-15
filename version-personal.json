@@ -1,6 +1,6 @@
 {
-  "versionCode": 90,
-  "versionName": "5.1",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1568239888680547/k699062nwqsxa0zrh88ukhux/ota-payload-v51.apk",
-  "notes": "v5.1: mesin Lawnchair (reorder + geser halaman), label aplikasi bisa dimatiin di mode iOS, widget kotak 2x2 ala iOS 27."
+  "versionCode": 91,
+  "versionName": "5.1.1",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2593487704429120/q7puugu1putd5gon335r15l3/ota-payload-v511.apk",
+  "notes": "v5.1.1: widget 2x2 iOS 27 kini muncul juga di home yang sudah mode iOS (migrasi sekali jalan), label + bar Google ikut beres."
 }
