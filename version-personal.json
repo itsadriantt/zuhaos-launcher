@@ -1,6 +1,6 @@
 {
-  "versionCode": 87,
-  "versionName": "5.0.2",
-  "apkUrl": "https://muse.ai/files/1362679686933657/2982569832079243/oa9th0o310aslbntps7w0hg6/ota-payload-v502.apk",
-  "notes": "Mode iOS 5.0.2: wallpaper diam saat geser halaman (parallax dimatikan di mode iOS)."
+  "versionCode": 88,
+  "versionName": "5.0.3",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1451324193818961/04vreztlrtbk8axwoq86h7bj/ota-payload-v503.apk",
+  "notes": "Mode iOS 5.0.3: tampilan dirapikan ala iOS 27 - Search pill di atas dock, label aplikasi nyala, grid 6 baris, dock lebih bening, wallpaper bronze, migrasi sekali saja."
 }
