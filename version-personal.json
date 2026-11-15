@@ -1,6 +1,6 @@
 {
-  "versionCode": 97,
-  "versionName": "5.1.7",
-  "apkUrl": "https://muse.ai/files/1362679686933657/3825623980918216/qi7wg3r6g326c08puhyzgzu0/ota-payload-v517.apk",
-  "notes": "v5.1.7: logopack iOS 27 — 112 ikon bawaan jadi kaca liquid glass (mode iOS); mode One UI tetap ikon biasa."
+  "versionCode": 98,
+  "versionName": "5.1.8",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1124201873587626/z96c6dn7hf7b0qxusdm14no9/ota-payload-v518.apk",
+  "notes": "v5.1.8: kaca iOS 27 sekarang di semua ikon (termasuk game/app di luar logopack); mode One UI tetap polos."
 }
