@@ -1,6 +1,6 @@
 {
-  "versionCode": 84,
-  "versionName": "4.57",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1487095836601511/1dwqxb9gemzxalmk1ucq3fug/ota-payload-v457.apk",
-  "notes": "Efek animasi render dihapus total, balik bersih seperti sebelum 4.56. Chat AI, Laporan Mingguan, dan Bersih-bersih AI tetap ada."
+  "versionCode": 85,
+  "versionName": "5.0",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1027017383787739/sez38tqe3ew0denty7p8ul42/ota-payload-v50.apk",
+  "notes": "Mode iOS baru: toggle di Pengaturan, semua aplikasi di layar utama tanpa drawer, App Library di halaman paling kanan, ikon squircle iOS, Search pill, dock kaca liquid glass (blur GPU). Mode lama bisa dipakai lagi kapan saja."
 }
