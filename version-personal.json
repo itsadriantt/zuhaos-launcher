@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "5.0.3",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1451324193818961/04vreztlrtbk8axwoq86h7bj/ota-payload-v503.apk",
-  "notes": "Mode iOS 5.0.3: tampilan dirapikan ala iOS 27 - Search pill di atas dock, label aplikasi nyala, grid 6 baris, dock lebih bening, wallpaper bronze, migrasi sekali saja."
+  "versionCode": 89,
+  "versionName": "5.0.4",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2697044524130425/z3wt5oihyi46r4wjg4xisct0/ota-payload-v504.apk",
+  "notes": "Mode iOS 5.0.4: Search pill di atas dock dihapus, bar Google dan watermark kembali di kedua mode."
 }
