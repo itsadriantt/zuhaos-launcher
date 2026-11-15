@@ -1,6 +1,6 @@
 {
-  "versionCode": 99,
-  "versionName": "5.1.9",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1001030792429146/lag9ugsxqlg26jyl4i2bx62d/ota-payload-v519.apk",
-  "notes": "v5.1.9: kaca iOS 27 yang ASLI — warna ikon tetap pekat, cuma gloss halus di atas (tanpa cuci putih)."
+  "versionCode": 100,
+  "versionName": "5.1.10",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1142023115237351/bok87ouo8ag6vktloqawufm9/ota-payload-v5110.apk",
+  "notes": "v5.1.10: kaca dihapus dari ikon (ikon polos kayak iOS 27); blur kaca dock bisa diatur di Pengaturan > Dock."
 }
