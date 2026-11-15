@@ -1,6 +1,6 @@
 {
-  "versionCode": 92,
-  "versionName": "5.1.2",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1604492347662497/xvq232o9b94c6g3zzs44yquh/ota-payload-v512.apk",
-  "notes": "v5.1.2: dock liquid glass beneran — wallpaper blur di belakang dock + highlight kaca, bukan abu-abu polos."
+  "versionCode": 93,
+  "versionName": "5.1.3",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2380338072783124/d1ekxqt74sm861100n7su0oj/ota-payload-v513.apk",
+  "notes": "v5.1.3: drag & drop bebas beneran (halaman dihitung per sel, bukan per jumlah app), ikon launcher liquid glass iOS 27."
 }
