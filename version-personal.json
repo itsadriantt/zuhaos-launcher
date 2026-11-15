@@ -2,5 +2,5 @@
   "versionCode": 85,
   "versionName": "5.0",
   "apkUrl": "https://muse.ai/files/1362679686933657/1027017383787739/sez38tqe3ew0denty7p8ul42/ota-payload-v50.apk",
-  "notes": "✨ Whats New — v5.0 Mode iOS!\n\n📱 Mode iOS — tampilan iPhone di launcher lu! Nyalain dari Pengaturan → Mode iOS.\n🏠 Semua aplikasi di layar utama — tanpa drawer.\n📚 App Library — aplikasi dikelompokkan otomatis per kategori, plus pencarian.\n🔍 Search pill baru di atas dock.\n✨ Ikon squircle khas iOS.\n💎 Dock liquid glass — kaca beneran, blur GPU dari wallpaper lu.\n🆕 Aplikasi baru otomatis nambah di halaman terakhir.\n↩️ Bisa balik ke mode One UI kapan saja — layout lama lu aman."
+  "notes": "Mode iOS baru: toggle di Pengaturan, semua aplikasi di layar utama tanpa drawer, App Library di halaman paling kanan, ikon squircle iOS, Search pill, dock kaca liquid glass (blur GPU). Mode lama bisa dipakai lagi kapan saja."
 }
