@@ -1,6 +1,6 @@
 {
-  "versionCode": 101,
-  "versionName": "5.1.11",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1799780251301661/nydku8ob439ve7fsaic26yra/ota-payload-v5111.apk",
-  "notes": "v5.1.11: ikon aplikasi sistem gaya iOS 27 (Pengaturan, Kamera, Telepon, Pesan, Jam, Kalender, File, Kalkulator, Kontak, Foto)."
+  "versionCode": 102,
+  "versionName": "5.1.12",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1124495917125961/do23jyt0j8jrk1efsgv34bc8/ota-payload-v5112.apk",
+  "notes": "v5.1.12: ikon bulat (Canva dll) dibikin squircle; blur dock diperkuat; semua app yang hilang balik ke home mode iOS."
 }
