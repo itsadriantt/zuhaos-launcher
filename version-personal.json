@@ -1,6 +1,6 @@
 {
-  "versionCode": 98,
-  "versionName": "5.1.8",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1124201873587626/z96c6dn7hf7b0qxusdm14no9/ota-payload-v518.apk",
-  "notes": "v5.1.8: kaca iOS 27 sekarang di semua ikon (termasuk game/app di luar logopack); mode One UI tetap polos."
+  "versionCode": 99,
+  "versionName": "5.1.9",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1001030792429146/lag9ugsxqlg26jyl4i2bx62d/ota-payload-v519.apk",
+  "notes": "v5.1.9: kaca iOS 27 yang ASLI — warna ikon tetap pekat, cuma gloss halus di atas (tanpa cuci putih)."
 }
