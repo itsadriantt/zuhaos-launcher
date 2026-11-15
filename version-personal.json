@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "5.0.1",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1615917997236521/ipk8kubxg0ao7vuaal7chv05/ota-payload-v501.apk",
-  "notes": "Mode iOS 5.0.1: drawer benar-benar hilang di mode iOS (swipe ke atas buka App Library), dock kaca bersih tanpa blob, wallpaper iOS 27 otomatis saat mode iOS nyala, ikon dipadatkan tanpa sel kosong, geser halaman lebih ringan, satu search bar saja."
+  "versionCode": 87,
+  "versionName": "5.0.2",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2982569832079243/oa9th0o310aslbntps7w0hg6/ota-payload-v502.apk",
+  "notes": "Mode iOS 5.0.2: wallpaper diam saat geser halaman (parallax dimatikan di mode iOS)."
 }
