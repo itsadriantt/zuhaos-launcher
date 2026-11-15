@@ -1,6 +1,6 @@
 {
-  "versionCode": 104,
-  "versionName": "5.1.14",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1829542571496936/dipwt6x6g31mqvba5fiew1yo/ota-payload-v5114.apk",
-  "notes": "v5.1.14: slider blur kaca dock diperbaiki (kaca dock kini tampil setelah layout, tidak lagi diam-diam gagal)."
+  "versionCode": 105,
+  "versionName": "5.1.15",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1033011586512406/mfpfub5d0dexuiqnkcjqc5oy/ota-payload-v5115.apk",
+  "notes": "v5.1.15: geser halaman lebih responsif, kaca dock kini saklar on/off (tanpa slider)."
 }
