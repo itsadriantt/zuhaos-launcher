@@ -1,6 +1,6 @@
 {
-  "versionCode": 83,
-  "versionName": "4.56",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1747795882957412/ngxac8vqsqzuo7rtcuc2esgi/ota-payload-v456.apk",
-  "notes": "Baru: animasi beneran render — partikel GPU + ring saat klik ikon, dan animasi frame pre-render saat buka aplikasi & menu titik tiga. Bisa dimatikan di Pengaturan > Animasi > Efek animasi render."
+  "versionCode": 84,
+  "versionName": "4.57",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1487095836601511/1dwqxb9gemzxalmk1ucq3fug/ota-payload-v457.apk",
+  "notes": "Efek animasi render dihapus total, balik bersih seperti sebelum 4.56. Chat AI, Laporan Mingguan, dan Bersih-bersih AI tetap ada."
 }
