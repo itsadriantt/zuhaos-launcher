@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "5.1.15",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1033011586512406/mfpfub5d0dexuiqnkcjqc5oy/ota-payload-v5115.apk",
-  "notes": "v5.1.15: geser halaman lebih responsif, kaca dock kini saklar on/off (tanpa slider)."
+  "versionCode": 106,
+  "versionName": "5.1.16",
+  "apkUrl": "https://muse.ai/files/1362679686933657/3144800655728594/fj32grhurkiro879kss5ondx/ota-payload-v5116.apk",
+  "notes": "v5.1.16: ketuk 2x area kosong dimatikan total."
 }
