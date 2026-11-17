@@ -1,6 +1,6 @@
 {
-  "versionCode": 128,
-  "versionName": "5.1.38",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1815661359684244/9lxgjalc2i4jajy7n2n0uz2f/zuhaOS-phone-v5138.apk",
-  "notes": "Dock kaca: rim terang + glow + body lebih milky (kebaca kaca di atas wallpaper polos)."
+  "versionCode": 129,
+  "versionName": "5.1.39",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1129712339786912/3kxt1uvrtr87o87f7do51yvt/zuhaOS-phone-v5139.apk",
+  "notes": "Revert pinggiran kaca dock ke v5.1.36 (rim + glow v5.1.38 bikin aneh)."
 }
