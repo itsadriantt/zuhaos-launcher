@@ -1,6 +1,6 @@
 {
-  "versionCode": 106,
-  "versionName": "5.1.16",
-  "apkUrl": "https://muse.ai/files/1362679686933657/3144800655728594/fj32grhurkiro879kss5ondx/ota-payload-v5116.apk",
-  "notes": "v5.1.16: ketuk 2x area kosong dimatikan total."
+  "versionCode": 107,
+  "versionName": "5.1.17",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1006860931822049/rfdmc3bb90ci60wdxhviimfu/ota-payload-v5117.apk",
+  "notes": "v5.1.17: pindah ikon swap-only, tahan-goyang dihapus, Rapikan alfabetis."
 }
