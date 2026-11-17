@@ -1,6 +1,6 @@
 {
-  "versionCode": 108,
-  "versionName": "5.1.18",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1675614854200290/pli6nc9ukbeuv7qcv4f71n8r/ota-payload-v5118.apk",
-  "notes": "v5.1.18: folder baru muncul setelah hover 3 detik di atas app; hapus pembesaran saat drag."
+  "versionCode": 109,
+  "versionName": "5.1.19",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1131487063215311/27j0txkum45mkj9p7eknonkc/ota-payload-v5119.apk",
+  "notes": "Perbaikan widget dan geser halaman."
 }
