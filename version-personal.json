@@ -1,6 +1,6 @@
 {
-  "versionCode": 107,
-  "versionName": "5.1.17",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1006860931822049/rfdmc3bb90ci60wdxhviimfu/ota-payload-v5117.apk",
-  "notes": "v5.1.17: pindah ikon swap-only, tahan-goyang dihapus, Rapikan alfabetis."
+  "versionCode": 108,
+  "versionName": "5.1.18",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1675614854200290/pli6nc9ukbeuv7qcv4f71n8r/ota-payload-v5118.apk",
+  "notes": "v5.1.18: folder baru muncul setelah hover 3 detik di atas app; hapus pembesaran saat drag."
 }
