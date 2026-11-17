@@ -1,6 +1,6 @@
 {
-  "versionCode": 125,
-  "versionName": "5.1.35",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1661591142335013/mot5f1k5i3mcfbbrfhtz378v/zuhaOS-phone-v5135.apk",
-  "notes": "Dock kaca ala liquid glass (highlight terang, rim tebal, efek 3D) + notifikasi sistem kalau ada pembaruan."
+  "versionCode": 126,
+  "versionName": "5.1.36",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2393634844504510/mzrm5r4wc7wff3tglufpr3vt/zuhaOS-phone-v5136.apk",
+  "notes": "Dock kaca LIVE render GPU (tangkap wallpaper asli, bukan tempelan) + blur lebih milky."
 }
