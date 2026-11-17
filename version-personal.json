@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "5.1.20",
-  "apkUrl": "https://muse.ai/files/1362679686933657/3008849022847386/8zithmiemqnc9pw308qmioak/ota-payload-v5120.apk",
-  "notes": "Perbaikan widget drag."
+  "versionCode": 111,
+  "versionName": "5.1.21",
+  "apkUrl": "https://muse.ai/files/1362679686933657/4587867864821195/t050d41y6l2oz8nh0foqga9w/ota-payload-v5121.apk",
+  "notes": "Widget dan bar Google bisa dipindah di halaman penuh."
 }
