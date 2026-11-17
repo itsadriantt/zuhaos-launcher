@@ -1,6 +1,6 @@
 {
-  "versionCode": 122,
-  "versionName": "5.1.32",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1181442441058976/pm0j6gczhk3ya7cyaribkzfb/ota-payload-v5132.apk",
-  "notes": "Perbaikan drag antar-halaman: app yang kegeser tidak ikut pindah halaman."
+  "versionCode": 123,
+  "versionName": "5.1.33",
+  "apkUrl": "https://muse.ai/files/1362679686933657/29666117219661593/bkgro0tk8ffjssr5b45u5oxo/ota-payload-v5133.apk",
+  "notes": "Perbaikan drag antar-halaman: app lain tidak ikut pindah saat app digeser."
 }
