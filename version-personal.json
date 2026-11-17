@@ -1,6 +1,6 @@
 {
-  "versionCode": 113,
-  "versionName": "5.1.23",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1826596318382878/lub4orqbuwty87ws61j43tip/ota-payload-v5123.apk",
-  "notes": "Halaman kosong otomatis dihapus."
+  "versionCode": 114,
+  "versionName": "5.1.24",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1818241176204694/yf7tcrpgwfs4xuvezocxwbwx/ota-payload-v5124.apk",
+  "notes": "Drag antar halaman tidak lagi mengacak app."
 }
