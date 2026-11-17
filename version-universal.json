@@ -1,6 +1,6 @@
 {
-  "versionCode": 123,
-  "versionName": "5.1.33",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1399772665325732/7viu0qaeawfgi6x7b4l8bez4/zuhaOS-phone-universal-v5133.apk",
-  "notes": "Edisi Universal v5.1.33 buat HP non-root. Uninstall pakai konfirmasi sistem."
+  "versionCode": 124,
+  "versionName": "5.1.34",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1659684842273570/uieb309m8dghoseua58qh6ue/zuhaOS-phone-universal-v5134.apk",
+  "notes": "Perbaikan Universal: uninstall pakai dialog sistem (bisa di HP non-root), kaca dock tidak hilang lagi pas ganti latar, Tentang tampilkan model HP."
 }
