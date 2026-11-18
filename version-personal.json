@@ -1,6 +1,6 @@
 {
-  "versionCode": 140,
-  "versionName": "6.0",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1149296024281103/viwxpphipa6lb471vzo5pfd2/zuhaOS-phone-v60.apk",
-  "notes": "v6.0 — update besar:\n• Dock kaca cair ala iOS: blur wallpaper, sheen, border gradien, dan kilau sudut.\n• Wallpaper kini mengikuti sistem: pasang dari Galeri/Pengaturan, home dan lock screen sama-sama berubah.\n• Drag ikon ala iOS, animasi iOS, dan ikon seragam squircle.\n• Widget jam interaktif baru: jam, kalender, stopwatch, dan baterai — swipe atas/bawah buat ganti.\n• Getar singkat tiap buka aplikasi.\n• Perbaikan halaman Tentang."
+  "versionCode": 146,
+  "versionName": "6.0.6",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1439313647858768/bb5xj48qq14fd7vqp398ort8/zuhaOS-phone-v606-ota.apk",
+  "notes": "v6.0.6 — update besar:\n• Menu long-press ala iOS di dock dan homescreen.\n• Drag ikon ala iOS: tap, tahan, geser satu handler; drag dock ↔ home, reorder, swap, dan tolak kalau penuh.\n• Widget jam interaktif baru: jam, kalender, stopwatch, dan baterai — swipe atas/bawah buat ganti.\n• Icon pack iOS 17 file.\n• CrashReporter: laporan crash + tombol Salin.\n• Perbaikan crash dan bug drag dock-home."
 }
