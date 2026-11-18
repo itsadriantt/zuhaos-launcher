@@ -1,6 +1,6 @@
 {
-  "versionCode": 130,
-  "versionName": "5.1.40",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1347965640709675/0o5r7miquvvnff3xa3h47r1b/zuhaOS-phone-v5140.apk",
-  "notes": "v5.1.40 — yang baru:\n• Getar tiap buka aplikasi: HP bergetar singkat setiap mengetuk ikon aplikasi — di home, drawer, App Library, sampai hasil Cari Cepat.\n• Saklar baru di Pengaturan: \"Getar saat buka aplikasi\" (bawaan nyala). Kalau nggak suka, tinggal dimatiin.\n• Catatan pembaruan di halaman Pembaruan sekarang lebih lengkap, biar jelas apa yang berubah di tiap versi."
+  "versionCode": 140,
+  "versionName": "6.0",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1149296024281103/viwxpphipa6lb471vzo5pfd2/zuhaOS-phone-v60.apk",
+  "notes": "v6.0 — update besar:\n• Dock kaca cair ala iOS: blur wallpaper, sheen, border gradien, dan kilau sudut.\n• Wallpaper kini mengikuti sistem: pasang dari Galeri/Pengaturan, home dan lock screen sama-sama berubah.\n• Drag ikon ala iOS, animasi iOS, dan ikon seragam squircle.\n• Widget jam interaktif baru: jam, kalender, stopwatch, dan baterai — swipe atas/bawah buat ganti.\n• Getar singkat tiap buka aplikasi.\n• Perbaikan halaman Tentang."
 }
