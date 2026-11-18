@@ -1,6 +1,6 @@
 {
-  "versionCode": 129,
-  "versionName": "5.1.39",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1129712339786912/3kxt1uvrtr87o87f7do51yvt/zuhaOS-phone-v5139.apk",
-  "notes": "Revert pinggiran kaca dock ke v5.1.36 (rim + glow v5.1.38 bikin aneh)."
+  "versionCode": 130,
+  "versionName": "5.1.40",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1347965640709675/0o5r7miquvvnff3xa3h47r1b/zuhaOS-phone-v5140.apk",
+  "notes": "v5.1.40 — yang baru:\n• Getar tiap buka aplikasi: HP bergetar singkat setiap mengetuk ikon aplikasi — di home, drawer, App Library, sampai hasil Cari Cepat.\n• Saklar baru di Pengaturan: \"Getar saat buka aplikasi\" (bawaan nyala). Kalau nggak suka, tinggal dimatiin.\n• Catatan pembaruan di halaman Pembaruan sekarang lebih lengkap, biar jelas apa yang berubah di tiap versi."
 }
