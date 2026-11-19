@@ -1,6 +1,6 @@
 {
-  "versionCode": 149,
-  "versionName": "6.0.9",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1011117198296704/7fakkviuprpnpkmtwy0ewckj/zuhaOS-phone-v609-ota.apk",
-  "notes": "v6.0.9 — update:\n• Kartu kaca baru dari bawah: swipe ke atas di area kosong homescreen membuka kartu pencarian Google (blur + homescreen mengecil ala iOS).\n• Widget pencarian Google pindah dari homescreen ke kartu — homescreen jadi bersih.\n• Swipe ke atas dari dock/garis home tetap buka App Library."
+  "versionCode": 151,
+  "versionName": "6.1.0",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1446830957648913/24dhlb5ny4x7ygo79u99oofu/zuhaOS-phone-v610-ota.apk",
+  "notes": "v6.1.0 — update:\n• Pencarian Spotlight ala iOS: swipe ke atas di area kosong, langsung ngetik — hasil app + 'Telusuri di Google', Enter = pencarian Google, mikrofon = pencarian suara.\n• Halaman Pembaruan ala iOS 27: kartu grouped, tombol kembali bulat, status + tombol 'Unduh dan Pasang', 'Terakhir diperiksa'.\n• Kartu pencarian naik di atas keyboard, tutup keyboard + hapus teks saat kartu ditutup."
 }
