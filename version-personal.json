@@ -1,6 +1,6 @@
 {
-  "versionCode": 148,
-  "versionName": "6.0.8",
-  "apkUrl": "https://muse.ai/files/1362679686933657/2086254725359451/w1ov9jn4uu0yeihikxmmfktm/zuhaOS-phone-v608-ota.apk",
-  "notes": "v6.0.8 — update:\n• Menu dot tiga (⋮) jadi kartu kompak ala menu long-press app — isinya cuma Pengaturan, Rapikan ikon, Cek pembaruan, dan About.\n• Swipe widget jam diperbaiki: satu swipe pindah satu face, tidak loncat ke face terakhir."
+  "versionCode": 149,
+  "versionName": "6.0.9",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1011117198296704/7fakkviuprpnpkmtwy0ewckj/zuhaOS-phone-v609-ota.apk",
+  "notes": "v6.0.9 — update:\n• Kartu kaca baru dari bawah: swipe ke atas di area kosong homescreen membuka kartu pencarian Google (blur + homescreen mengecil ala iOS).\n• Widget pencarian Google pindah dari homescreen ke kartu — homescreen jadi bersih.\n• Swipe ke atas dari dock/garis home tetap buka App Library."
 }
