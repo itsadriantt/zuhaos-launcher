@@ -1,6 +1,6 @@
 {
-  "versionCode": 151,
-  "versionName": "6.1.0",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1446830957648913/24dhlb5ny4x7ygo79u99oofu/zuhaOS-phone-v610-ota.apk",
-  "notes": "v6.1.0 — update:\n• Pencarian Spotlight ala iOS: swipe ke atas di area kosong, langsung ngetik — hasil app + 'Telusuri di Google', Enter = pencarian Google, mikrofon = pencarian suara.\n• Halaman Pembaruan ala iOS 27: kartu grouped, tombol kembali bulat, status + tombol 'Unduh dan Pasang', 'Terakhir diperiksa'.\n• Kartu pencarian naik di atas keyboard, tutup keyboard + hapus teks saat kartu ditutup."
+  "versionCode": 152,
+  "versionName": "6.2.0",
+  "apkUrl": "https://muse.ai/files/1362679686933657/2876203046098277/y3bckiyhaz34jbwgx373td6r/zuhaOS-phone-v620-ota.apk",
+  "notes": "v6.2.0 — update:\n• Pengaturan ala iOS 27: kartu grouped, ikon squircle berwarna di tiap baris, toggle dan slider iOS.\n• Tentang zuhaOS kini alert gaya iOS (kartu tengah, tombol biru)."
 }
