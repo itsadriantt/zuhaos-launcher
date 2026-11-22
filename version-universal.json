@@ -1,9 +1,9 @@
 {
-  "versionCode": 162,
-  "versionName": "6.3.6",
-  "apkUrl": "https://muse.ai/files/1362679686933657/1558877379606858/grutav8tqzr13l1uy033tw2k/zuhaOS-phone-universal-v636.apk",
-  "notes": "v6.3.6 — update:
-• Drag antar-halaman kini swap tepat ke sel yang ditunjuk.
-• Pengaturan → Pulihkan aplikasi: balikin app yang hilang dari home.
-• Perbaikan stabilitas drag & layout."
+  "versionCode": 163,
+  "versionName": "6.3.7",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1870438060623562/gl8jzr81r0oxu5kv0jkbn2ho/zuhaOS-phone-universal-v637.apk",
+  "notes": "v6.3.7 — update:
+• Slot dock kosong tidak lagi tampil kotak abu-abu; pil kaca nempel ke ikon yang terisi.
+• Logo Google kembali ke logo G.
+• Label app panjang kini terpotong rapi."
 }
