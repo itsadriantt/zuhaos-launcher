@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "3.12",
-  "apkUrl": "https://github.com/itsadriantt/zuhaos-launcher/releases/download/tv-v3.12/zuhaOS-tv-v3.12.apk",
-  "notes": "v3.12 — update:\n• Menu tekan-tahan kini kartu pop-up ala iOS, sama seperti launcher HP.\n• Update launcher kini muncul sebagai pop-up kartu iOS (Perbarui / Nanti)."
+  "versionCode": 53,
+  "versionName": "3.16",
+  "apkUrl": "https://muse.ai/files/1362679686933657/1182503630797249/a7ebnq4o0rzqe1sps14no3n4/zuhaOS-3.16.apk",
+  "notes": "v3.16 — update:\n• Settings layout baru ala iOS: overview grup + subpage per kategori dengan baris kembali, navigasi remote penuh.\n• Dock kaca ala iOS tetap ada (kapsul kaca + ikon squircle)."
 }
